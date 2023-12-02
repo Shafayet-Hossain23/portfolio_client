@@ -1,0 +1,18 @@
+.footerStyle {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgb(0, 0, 0);
+    border-top: 1px solid;
+}
+
+
+.footerName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    color: #3f2a4a;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
